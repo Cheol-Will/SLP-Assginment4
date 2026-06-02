@@ -1,0 +1,7 @@
+Setup,LogMel diff. (ℓ₁) ↓,WER ↓,UTMOS ↑
+Original wav,-,0.0400,4.3372
+Full RVQ levels,0.2866,0.0000,4.3274
+5 RVQ levels,0.7002,0.0000,4.0275
+3 RVQ levels,0.8211,0.0600,3.6463
+2 RVQ levels,0.9387,0.1667,3.1376
+1 RVQ level,1.1812,0.4497,1.9587
