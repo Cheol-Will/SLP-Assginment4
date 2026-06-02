@@ -105,9 +105,3 @@ uv add torch torchaudio encodec dac-audio transformers jiwer utmos librosa sound
 - `transformers` — Whisper for ASR
 
 ---
-
-## Submission
-- Code zip (excluding model weights/data): `2026xxxxxxx-code-04.zip`
-- Report PDF (≤3 pages, 11pt): `2026xxxxxxx-report-04.pdf`
-- **Due: 2026-06-03 (Wed) 23:59**
-- Report must include one metric table per dataset with brief analysis of how quality degrades as RVQ levels decrease
